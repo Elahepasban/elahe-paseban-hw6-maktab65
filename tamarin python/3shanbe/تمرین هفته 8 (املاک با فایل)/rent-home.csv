@@ -1,0 +1,5 @@
+owner,area,phone,active_inactive,amount-rent,monthly rent,rooms,floors,parking,yard_area,address
+"Ali, Alii",200,4325,active,2000000,1000000,3,1,3,100,"tehran,lale,20,134134"
+"Zahra,Zarii",100,5687,inactive,100000,500000,2,1,2,60,"tehran,lale,20,134134"
+"Maryam,M",430,8902,active,550000,10000000,5,2,6,200,"tehran,lale,20,134134"
+"Elahe,Pas",500,1276,inactive,870000,12000000,5,2,6,200,"tehran,lale,20,134134"

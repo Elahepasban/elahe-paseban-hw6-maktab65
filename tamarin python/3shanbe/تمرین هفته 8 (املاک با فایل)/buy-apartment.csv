@@ -1,0 +1,5 @@
+owner,area,phone,active_inactive,selling-price,rooms,floor,floors,parking,address
+Ali,200,4325,active,2000000000,3,1,5,3,"tehran,lale,20,1345"
+Zahra,100,5687,inactive,1000000000,2,1,3,2,"tehran,lale,20,1345"
+Maryam,430,8902,active,5500000000,5,2,10,6,"tehran,lale,20,1345"
+Elahe ,500,1276,inactive,8700000000,5,2,15,6,"tehran,lale,20,1345"
